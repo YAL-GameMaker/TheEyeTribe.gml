@@ -1,0 +1,1 @@
+This is a very basic demonstration of how to use TheEyeTribe's JSON-over-TCP protocol in GameMaker. The result is a small application that maps eye focus point to the game window.
